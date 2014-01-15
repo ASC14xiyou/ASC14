@@ -1,2 +1,1 @@
-      Asia Supercomputer Student Challenge
-      ====================================
+
